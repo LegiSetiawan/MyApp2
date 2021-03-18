@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nama">nama</string>
+    <string name="harga">harga</string>
+    <string name="satuan">satuan</string>
+    <string name="total">total</string>
+    <string name="cancel">cancel</string>
+    <string name="save">save</string>
+</resources>
